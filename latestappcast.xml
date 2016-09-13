@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>SpechtLite</title>
+<link>https://zhuhaow.github.io/SpechtLite/latestappcast.xml</link>
+<description>The infomation of the lastest SpechtLite.</description>
+<language>en</language>
+<item>
+<title>SpechtLite 0.4.1</title>
+<pubDate>2016-09-13T15:36:01+00:00</pubDate>
+<description><![CDATA[
+<h2>0.4.1</h2>
+
+<h3>Fixed</h3>
+
+<ul>
+<li>SOCKS5 proxy can handle requests with IP address correctly now.</li>
+</ul>
+
+<h2>0.4.0</h2>
+
+<h3>Fixed</h3>
+
+<ul>
+<li><code>IPRange</code> now can handle <code>/32</code> IP correctly.</li>
+<li>SOCKS5 proxy can handle client supports more than one auth method.</li>
+</ul>
+
+<h3>Added</h3>
+
+<ul>
+<li>SOCSK5 adapter support!</li>
+</ul>
+
+]]>
+</description>
+<enclosure url="https://github.com/zhuhaow/SpechtLite/releases/download/0.4.1/SpechtLite.zip"
+sparkle:version="120"
+sparkle:shortVersionString="0.4.1"
+sparkle:dsaSignature="MCwCFGNeBZBTcAsKXXPl3uUnO0+XcINUAhQA8l7HjzgSGe4cg/lURQniziMGGg=="
+length="7341801"
+type="application/octet-stream" />
+</item>
+</channel>
+</rss>
